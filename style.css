@@ -472,7 +472,7 @@ font-size: 18px;
     /* ریسپانسیو موبایل */
 @media (max-width: 480px) {
   h1 {
-    font-size: 20px; /* اندازه کوچکتر برای موبایل */
+    font-size: 50px; /* اندازه کوچکتر برای موبایل */
   }
 
   .categories div {
