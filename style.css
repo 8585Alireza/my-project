@@ -283,8 +283,8 @@ font-size: 18px;
   width: 100%;
   height: 100%;
   background-color: rgb(255, 255, 255); /* رنگ دلخواه */
-  -webkit-mask-image: url(/FILE/rubikapng.parspng.com-4.png);
-  mask-image: url(/FILE/rubikapng.parspng.com-4.png);
+  -webkit-mask-image: url(FILE/rubikapng.parspng.com-4.png);
+  mask-image: url(FILE/rubikapng.parspng.com-4.png);
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
@@ -308,8 +308,8 @@ font-size: 18px;
   width: 100%;
   height: 100%;
   background-color: rgb(255, 255, 255); /* رنگ دلخواه */
-  -webkit-mask-image: url(/FILE/Eitaa-Logo-1030x1030.png);
-  mask-image: url(/FILE/Eitaa-Logo-1030x1030.png);
+  -webkit-mask-image: url(FILE/Eitaa-Logo-1030x1030.png);
+  mask-image: url(FILE/Eitaa-Logo-1030x1030.png);
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
@@ -334,12 +334,12 @@ font-size: 18px;
   width: 100%;
   height: 100%;
   background-color: rgb(255, 255, 255); /* رنگ دلخواه */
-  -webkit-mask-image: url(/FILE/Support\ \(رسانیکا\).png);
-  mask-image: url(/FILE/Support\ \(رسانیکا\).png);
+  -webkit-mask-image: url(FILE/Support\ \(رسانیکا\).png);
+  mask-image: url(FILE/Support\ \(رسانیکا\).png);
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
-  object-fit: cover;
+  object-fit: cover
 }
 
 .icon-m-png::before {
@@ -360,8 +360,8 @@ font-size: 18px;
   width: 100%;
   height: 100%;
   background-color: rgb(255, 255, 255); /* رنگ دلخواه */
-  -webkit-mask-image: url(/FILE/Management\ \(رسانیکا\).png);
-  mask-image: url(/FILE/Management\ \(رسانیکا\).png);
+  -webkit-mask-image: url(FILE/Management\ \(رسانیکا\).png);
+  mask-image: url(FILE/Management\ \(رسانیکا\).png);
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
