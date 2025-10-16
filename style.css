@@ -469,7 +469,7 @@ font-size: 18px;
       min-width: 130px;
     }
 
-/* ریسپانسیو موبایل */
+/* 📱 موبایل (تا عرض 480px) */
 @media (max-width: 480px) {
   h1 {
     font-size: 22px;
@@ -519,5 +519,47 @@ font-size: 18px;
 
   body {
     padding: 8px;
+  }
+}
+
+/* 💻 تبلت (بین 481 تا 900px) */
+@media (min-width: 481px) and (max-width: 900px) {
+  h1 {
+    font-size: 28px;
+  }
+
+  .categories div {
+    font-size: 15px;
+    padding: 8px;
+  }
+
+  .info-text1 {
+    font-size: 17px;
+  }
+
+  .info-text2 {
+    font-size: 14px;
+  }
+
+  .info-text3 {
+    font-size: 12px;
+  }
+
+  .row-cards .card {
+    flex: 1 1 auto;
+    max-width: 31%; /* سه‌تا کنار هم روی تبلت */
+  }
+
+  .logo {
+    width: 80px;
+    height: 80px;
+  }
+
+  .label-box, .label-box1, .info-box {
+    font-size: 12px;
+  }
+
+  body {
+    padding: 12px;
   }
 }
