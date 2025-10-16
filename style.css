@@ -471,32 +471,42 @@ font-size: 18px;
 
 /* 📱 موبایل (تا عرض 480px) */
 @media (max-width: 480px) {
+
+    .logo {
+      width: 120px;
+      height: 120px; }
+
+    .logo img{
+    width: 100%;
+    height: 100%;
+  }
+
   h1 {
-    font-size: 50px;
+    font-size: 45px;
     line-height: 1.2;
   }
 
   .categories div {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 800;
     padding: 6px;
   }
 
   .info-text1 {
-    font-size: 15px;
-    letter-spacing: 0.5px;
+    font-size: 20px;
+    letter-spacing: 2.5px;
   }
 
   .info-text2 {
-    font-size: 12px;
-    letter-spacing: 0.5px;
+    font-size: 16px;
+    letter-spacing: 2.5px;
     margin-top: 2px;
-    margin-right: 15px;
+    margin-right: 10px;
   }
 
   .info-text3 {
-    font-size: 10px;
-    margin-right: 6px;
+    font-size: 16px;
+    margin-right: 4px;
   }
 
   .card-top {
@@ -505,62 +515,15 @@ font-size: 18px;
 
   .row-cards .card {
     flex: 1 1 auto;
-    max-width: 48%; /* دو تا کنار هم بمونن */
-  }
-
-  .logo {
-    width: 65px;
-    height: 65px;
+    max-width: 48%; /* نمایش دو کارت در هر ردیف */
   }
 
   .label-box, .label-box1, .info-box {
-    font-size: 10px;
+    font-size: 12px;
     padding: 3px 0;
   }
 
   body {
     padding: 8px;
-  }
-}
-
-/* 💻 تبلت (بین 481 تا 900px) */
-@media (min-width: 481px) and (max-width: 900px) {
-  h1 {
-    font-size: 28px;
-  }
-
-  .categories div {
-    font-size: 15px;
-    padding: 8px;
-  }
-
-  .info-text1 {
-    font-size: 17px;
-  }
-
-  .info-text2 {
-    font-size: 14px;
-  }
-
-  .info-text3 {
-    font-size: 12px;
-  }
-
-  .row-cards .card {
-    flex: 1 1 auto;
-    max-width: 31%; /* سه‌تا کنار هم روی تبلت */
-  }
-
-  .logo {
-    width: 80px;
-    height: 80px;
-  }
-
-  .label-box, .label-box1, .info-box {
-    font-size: 12px;
-  }
-
-  body {
-    padding: 12px;
   }
 }
