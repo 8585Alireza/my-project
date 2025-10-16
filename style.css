@@ -476,12 +476,12 @@ font-size: 18px;
   }
 
   .categories div {
-    font-size: 16px; /* متن دسته‌بندی‌ها کوچیکتر */
+    font-size: 12px; /* متن دسته‌بندی‌ها کوچیکتر */
     padding: 8px;
   }
 
   .info-text1 {
-    font-size: 18px;
+    font-size: 12px;
     letter-spacing: 2px;
   }
 
