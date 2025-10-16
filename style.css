@@ -482,14 +482,14 @@ font-size: 18px;
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 35px;
     line-height: 1.2;
   }
 
   .categories div {
-    font-size: 10px;
-    font-weight: 800;
-    padding: 6px;
+    font-size: 12px;
+    font-weight: 900;
+    padding: 2px;
   }
 
   .info-text1 {
@@ -498,14 +498,14 @@ font-size: 18px;
   }
 
   .info-text2 {
-    font-size: 16px;
-    letter-spacing: 2.5px;
+    font-size: 13px;
+    letter-spacing: 0.5px;
     margin-top: 2px;
     margin-right: 10px;
   }
 
   .info-text3 {
-    font-size: 16px;
+    font-size: 13px;
     margin-right: 4px;
   }
 
@@ -519,7 +519,7 @@ font-size: 18px;
   }
 
   .label-box, .label-box1, .info-box {
-    font-size: 12px;
+    font-size: 10px;
     padding: 3px 0;
   }
 
