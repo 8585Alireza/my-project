@@ -472,16 +472,16 @@ font-size: 18px;
     /* ریسپانسیو موبایل */
 @media (max-width: 480px) {
   h1 {
-    font-size: 50px; /* اندازه کوچکتر برای موبایل */
+    font-size: 28px; /* اندازه کوچکتر برای موبایل */
   }
 
   .categories div {
-    font-size: 12px; /* متن دسته‌بندی‌ها کوچیکتر */
+    font-size: 16px; /* متن دسته‌بندی‌ها کوچیکتر */
     padding: 8px;
   }
 
   .info-text1 {
-    font-size: 12px;
+    font-size: 18px;
     letter-spacing: 2px;
   }
 
