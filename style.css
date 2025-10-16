@@ -470,13 +470,13 @@ font-size: 18px;
     }
 
     /* ریسپانسیو موبایل */
-@media (max-width: 490px) {
+@media (max-width: 375px) {
   h1 {
-    font-size: 10px; /* اندازه کوچکتر برای موبایل */
+    font-size: 35px; /* اندازه کوچکتر برای موبایل */
   }
 
   .categories div {
-    font-size: 16px; /* متن دسته‌بندی‌ها کوچیکتر */
+    font-size: 15px; /* متن دسته‌بندی‌ها کوچیکتر */
     padding: 8px;
   }
 
@@ -486,10 +486,10 @@ font-size: 18px;
   }
 
   .info-text2 {
-    font-size: 14px;
+    font-size: 15px;
     letter-spacing: 1px;
     margin-top: 4px;
-    margin-right: 12px;
+    margin-right: 24px;
   }
 
   .info-text3 {
