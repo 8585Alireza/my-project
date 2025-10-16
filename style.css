@@ -470,7 +470,7 @@ font-size: 18px;
     }
 
     /* ریسپانسیو موبایل */
-@media (max-width: 375px) {
+@media (max-width: 480px) {
   h1 {
     font-size: 35px; /* اندازه کوچکتر برای موبایل */
   }
